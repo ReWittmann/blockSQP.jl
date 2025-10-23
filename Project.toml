@@ -4,6 +4,7 @@ authors = ["Christoph Plate <christoph.plate@ovgu.de>", "Reinhold Wittmann <rein
 version = "0.1.0"
 
 [deps]
+QPALM = "6c3e646c-629b-11e9-19d9-033f6272e8d4"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
 
