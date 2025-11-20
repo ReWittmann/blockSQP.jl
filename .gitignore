@@ -5,11 +5,8 @@ CMakeCache.txt
 *.so
 *.a
 *.lib
-*.dll
 *.exp
 *.pyd
-*.pdb
-*.ilk
 __pycache__
 .vscode
 .VSCodeCounter
